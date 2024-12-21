@@ -855,5 +855,9 @@ footer {
   color: #374054;
   margin-bottom: 50px
 }
-
+/* Publications Section */
+#publications {
+    padding: 60px 0;
+    background-color: #f9f9f9;
+}
 

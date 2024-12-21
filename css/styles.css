@@ -266,7 +266,12 @@ footer {
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center
+  a:hover, a:focus {
+    color: #ffffff;
+    text-decoration: underline;
 }
+}
+
 
 #lead-content h1,#lead-content h2 {
   margin: 0

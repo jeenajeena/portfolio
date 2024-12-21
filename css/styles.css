@@ -859,5 +859,12 @@ footer {
 #publications {
     padding: 60px 0;
     background-color: #f9f9f9;
+    max-width: 700px;
+    margin: 0 auto 30px auto;
+      text-align: center;
 }
-
+#contact {
+  a {
+    color: #ffffff;
+  }
+}
